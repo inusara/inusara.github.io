@@ -19,10 +19,15 @@ footer: inusara.github.io
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
+  - title: envelope
+    url: mailto:timvazquez@gmail.com
+    caption: "Email"
   - title: github
     url: https://github.com/inusara
+    caption: "GitHub"
   - title: codepen
     url: http://codepen.io/inusara
+    caption: 'CodePen'
 
 # Build settings
 markdown: kramdown
